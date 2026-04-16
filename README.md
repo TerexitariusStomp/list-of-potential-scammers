@@ -1,4 +1,4 @@
-# List of Scammers
+# List of Potential Scammers
 
 Telegram DM log — individual messages received by Hermes bot instance.
 Last updated: 2026-04-16 03:54 UTC
